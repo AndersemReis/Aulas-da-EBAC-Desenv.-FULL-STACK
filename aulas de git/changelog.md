@@ -1,1 +1,2 @@
-git teste de merge com conflito
+git teste de git conflito
+
